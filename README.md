@@ -1,0 +1,1 @@
+Learning and practicing asynchronous functions, new promises and await and async. Using newly found knowledge to create a menu bar and calling the list in the navigation bar using asynchronous function.
